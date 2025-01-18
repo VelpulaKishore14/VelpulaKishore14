@@ -11,6 +11,6 @@ html lang="en">
         <title>Document</title>
     </head>
     <body>
-      <img src="giphy.gif" alt="image">
+      <img src="https://cdn.pixabay.com/photo/2023/12/01/10/20/ai-generated-8423424_640.jpg" alt="image">
     </head>
     <boby>
