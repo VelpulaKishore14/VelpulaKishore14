@@ -13,7 +13,7 @@
 <body>
     <h1>Adding an Image in GitHub</h1>
     <p>This is how you display an image stored in your GitHub repository:</p>
-    <img src="https://backiee.com/static/wallpapers/1000x563/401721.jpg" width="500">
+    <img src="https://miro.medium.com/v2/resize:fit:1024/1*jHp-009EQU349VLVAZmtag.jpeg" width="500">
     <p>Make sure the <code>src</code> path points to the image file in your repository.</p>
 </body>
 </html>
